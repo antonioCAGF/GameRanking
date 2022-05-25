@@ -1,8 +1,10 @@
 # GameRanking
 Desenvolvendo uma página com o ranking dos jogos mais jogados no mundo todo em 2022
 
-design figma
+Layout Figma da tela inicial (UX)
 https://www.figma.com/file/sPobGYuc9OyfYopdzfOalm/Untitled?node-id=0%3A1
+
+Tem dúvida? Entre em contato pelas minhas redes sociais!!
 
     	// Instagram: @pikdev_
 
