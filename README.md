@@ -4,7 +4,7 @@ Desenvolvendo uma página com o ranking dos jogos mais jogados no mundo todo em 
 design figma
 https://www.figma.com/file/sPobGYuc9OyfYopdzfOalm/Untitled?node-id=0%3A1
 
-    // Instagram: @pikdev_
+    		// Instagram: @pikdev_
 
 		// Youtube: @Pikachu Gamer
 		
