@@ -4,4 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body {
+  background-color: black;
+}
+.header{
+  background-color: #0000;
+}
