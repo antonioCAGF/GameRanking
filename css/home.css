@@ -51,6 +51,14 @@ h1 {
     padding: 15px;
 }
 
+.container-anuncios img{
+    width: 30%;
+    height: 550px;
+    background-color: #737373;
+    margin: 20px 0 20px 865px;
+    display: flex;
+}
+
 footer h3{
     text-align: center;
     background-color: #737373;
