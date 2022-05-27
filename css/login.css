@@ -8,6 +8,42 @@
 }
 
 html {
+   
     font-family: 'Roboto', sans-serif;
     font-weight: bold
+}
+
+body {
+    background-color: #E8E8E8;
+}
+
+.container-left {
+    width: 50%;
+    height: 960px;
+    background-color: #C0C0C0;
+    text-align: center;
+}
+
+.img-right img {
+    display: flex;
+    width: 106px;
+    height: 106px;
+    margin: 10px;
+}
+
+.login {
+    border: none;
+    background-color: greenyellow;
+    width: 200px;
+    height: 40px;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    background-color: #C0C0C0;
 }
