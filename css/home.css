@@ -36,27 +36,11 @@ h1 {
     height: 76px;
 }
 
-.imagem-principal img{
-    width: 60%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    margin-top: 50px;
-}
-
 .title h2{
     background-color: #737373;
     text-align: center;
     margin: 30px 80px 20px 80px;
     padding: 15px;
-}
-
-.container-anuncios img{
-    width: 30%;
-    height: 550px;
-    background-color: #737373;
-    margin: 20px 0 20px 865px;
-    display: flex;
 }
 
 footer h3{
