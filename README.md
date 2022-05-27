@@ -1,6 +1,8 @@
 # GameRanking
 Desenvolvendo uma página com o ranking dos jogos mais jogados no mundo todo em 2022
 
+Acesse esta página através desse link : https://gameranking.netlify.app/
+
 Layout Figma da tela inicial (UX)
 https://www.figma.com/file/sPobGYuc9OyfYopdzfOalm/Untitled?node-id=0%3A1
 
